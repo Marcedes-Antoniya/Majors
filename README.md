@@ -1,6 +1,6 @@
 # Major Calculator
 
-Calculates how close a Dartmouth Student is to each major within a certain range of classes. 
+Calculates how close an average Student is to each major within a certain range of classes. 
 
 ## TESTING
 
